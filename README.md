@@ -7,5 +7,5 @@ A simple eCommerce Store built using Flutter for different types of headphones w
 
 ## Images and Screenshots
 
-<img src = "https://github.com/JadeAnt/Headphone-eCommerce-Store/blob/master/eCommerce%20Store%20Images/login_page.png" width = "350" height = "650"> <img src = "https://github.com/JadeAnt/Headphone-eCommerce-Store/blob/master/eCommerce%20Store%20Images/landing_page.png" width = "350" height = "650"> <img src = "https://github.com/JadeAnt/Headphone-eCommerce-Store/blob/master/eCommerce%20Store%20Images/product_page.png" width = "350" height = "650"> 
-<img src = "https://github.com/JadeAnt/Headphone-eCommerce-Store/blob/master/eCommerce%20Store%20Images/shopping_cart.png" width = "350" height = "650"> 
+<img src = "https://github.com/JadeAnt/Headphone-eCommerce-Store/blob/master/eCommerce%20Store%20Images/login_page.png" width = "250" height = "550"> <img src = "https://github.com/JadeAnt/Headphone-eCommerce-Store/blob/master/eCommerce%20Store%20Images/landing_page.png" width = "250" height = "550"> <img src = "https://github.com/JadeAnt/Headphone-eCommerce-Store/blob/master/eCommerce%20Store%20Images/product_page.png" width = "250" height = "550"> 
+<img src = "https://github.com/JadeAnt/Headphone-eCommerce-Store/blob/master/eCommerce%20Store%20Images/shopping_cart.png" width = "250" height = "550"> 
