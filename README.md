@@ -1,9 +1,11 @@
 # Headphone-eCommerce-Store
-A simple eCommerce Store built using Flutter for different types of headphones with shopping cart functionality.
 
 ## Description
+A simple eCommerce Store built using Flutter for different types of headphones with shopping cart functionality.
 
 ## Tasks
+- Design and build an eCommerce store app
+- Add shopping cart functionality to the store to allow for checkout
 
 ## Images and Screenshots
 
